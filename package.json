@@ -70,6 +70,8 @@
     "babel-core": "7.0.0-bridge.0"
   },
   "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "axios": "^0.19.2",
     "chalk": "^2.4.2",
     "compression": "1.7.4",
     "connected-react-router": "6.5.0",
